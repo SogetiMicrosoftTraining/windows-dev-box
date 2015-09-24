@@ -1,3 +1,5 @@
+#FROM http://superuser.com/questions/540055/convenient-way-to-enable-disable-hyper-v-in-windows-8/642027#642027
+
 #DISABLE
 bcdedit /set hypervisorlaunchtype off
 #ENABLE
