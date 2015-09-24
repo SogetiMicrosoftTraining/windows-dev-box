@@ -1,0 +1,4 @@
+#DISABLE
+bcdedit /set hypervisorlaunchtype off
+#ENABLE
+bcdedit /set hypervisorlaunchtype auto
